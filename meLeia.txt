@@ -1,0 +1,6 @@
+esquema das pastas
+
+src\main\java\ classes do projeto
+src\main\resources\ arquivos de configuraçao como xml
+src\main\webapp\ html, css 
+WEB-INF paginas que nao podem ser mostradas ao usuario pela url
